@@ -8,6 +8,7 @@ I pledge my honor that I have abided by the Stevens Honor System.
 ![block1](https://user-images.githubusercontent.com/73567446/167987004-7d60a462-6684-4019-861f-26ff05929b9a.png)
 ![block mined](https://user-images.githubusercontent.com/73567446/167987021-689e2fd3-d5d5-41af-9247-305a7a21a320.png)
 ![block mined2](https://user-images.githubusercontent.com/73567446/167987031-ab5e5b5a-13e6-46bb-afe5-07c271ba8671.png)
-![iri_node_info](https://user-images.githubusercontent.com/73567446/167987037-d3d5c1a3-103b-4f39-82cd-0b94e62e1520.png)
+![iri_node_info](https://user-images.githubusercontent.com/73567446/167987123-6b40d750-51b0-4981-9188-2ac7914597fa.png)
+
 
 
